@@ -1,6 +1,6 @@
+import sys
 from pathlib import Path
 from markitdown import MarkItDown
-import sys
 
 def main(
   input_dir="data_test/input",
@@ -17,25 +17,23 @@ def main(
     return
 
   file_name = sys.argv[1]
-  try:
-    file_path = Path(input_dir) / file_name
-  except Exception as e:
-    print(f"Error finding file {file_name}: {e}")
-    return
+  input_file_path = Path(input_dir) / file_name
 
-  if file_path.suffix in target_formats:
-    try:
-      md.convert(file_path)
-    except Exception as e:
-      print(f"Error processing file {file_name}: {e}")
-      return
-    
-    output_file = output_path / f"{file_path.stem}.md"
-    try:
-      output_file.write_text(md.markdown, encoding="utf-8")
-      print(f"Converted {file_name} to {output_file}")
-    except Exception as e:
-      print(f"Error writing output file {output_file}: {e}")
+  if input_file_path.suffix not in target_formats:
+    print(f"File format {input_file_path.suffix} not supported. Supported formats: {target_formats}")
+    return
+  try:
+    result = md.convert(input_file_path)
+  except Exception as e:
+    print(f"Error processing file {input_file_path}: {e}")
+    return
+  
+  output_file_path = output_path / f"{input_file_path.stem}{input_file_path.suffix}.md"
+  try:
+    output_file_path.write_text(result.markdown, encoding="utf-8")
+    print(f"Converted {input_file_path} to {output_file_path}")
+  except Exception as e:
+    print(f"Error writing output file {output_file_path}: {e}")
       
 if __name__ == "__main__":
   main()
