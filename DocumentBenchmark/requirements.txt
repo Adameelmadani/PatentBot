@@ -1,0 +1,37 @@
+# ============================================
+# Document Extraction Phase Requirements
+# ============================================
+
+# ---------- Core Libraries ----------
+# For all approaches
+python-dotenv==1.0.0
+tqdm==4.66.1
+
+# ---------- Classic Parser Approach ----------
+# PDF parsing
+PyMuPDF==1.23.8
+# DOCX parsing
+python-docx==1.1.0
+# PPTX parsing
+python-pptx==0.6.23
+
+# ---------- MarkItDown Approach ----------
+# Microsoft's MarkItDown
+markitdown==0.0.1a2
+# MarkItDown dependencies
+pandas==2.1.4
+numpy==1.26.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# ---------- Docling Approach ----------
+# IBM's Docling
+docling==2.5.0
+# Docling dependencies (automatically installed but explicit for clarity)
+transformers==4.36.2
+torch==2.1.0
+pillow==10.1.0
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+pdf2image==1.16.3
