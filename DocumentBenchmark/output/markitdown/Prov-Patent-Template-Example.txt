@@ -1,0 +1,104 @@
+United States Provisional Patent Application
+
+(Example Prov Patent)
+
+**Title:** Chair with Fallback protection
+
+**Inventors:**
+
+Mac Jack
+
+123 Main Street
+
+Cleveland Ohio
+
+Citizenship: United States
+
+Kona Pance
+
+456 Broadway
+
+Akron Ohio
+
+Citizenship: Canada
+
+**Assignee:** Unlimited Furniture Machines, LLC
+
+**Small Entity Status Claimed**
+
+**Priority Filing:**
+
+**Priority Claims** (this invention refers to application/patent #): **None**
+
+**Foreign**: (note any pending foreign patents or applications): **None**
+
+**US**: None
+
+**Work for hire:** no
+
+**Work under US Government contracts**: no
+
+**Work under Foreign Government contracts**: no
+
+**Secret:** no
+
+## Abstract
+
+The present invention is a chair for comfortable sitting and which allows user to lean back without falling. Most chairs today have several legs (usually 4) however if the occupant leans back on two legs, they can fall over causing serious injury. The present invention prevents this while allowing a person to lean back safely.
+
+## Field of the Invention
+
+The present invention relates to the design of furniture, such as benches, chairs, and stools.
+
+## Background of the Invention and Prior Art
+
+Existing chairs and stools have between 3-5 legs which point straight down. If a person sits on those the weight is supported on the legs. Different design styles exist to handle needs such as formal designing, office space, and comfort. Stools are a special type of chair with long legs which are compact in their floor area. Some stools have their seating surface several feet above the ground but can easily fall over if pushed from any side.
+
+**![](data:image/png;base64...)**
+
+**Typical Chairs**
+
+Rocking chairs are a special type of chair in which a person can bob back and forth on a pair of tracks or via a cantilevered mechanism. However, they are heavier regular chairs and take up much space.
+
+![](data:image/png;base64...)
+
+**Rocking Chair as view from side**
+
+## Description of the Invention
+
+The present invention improves upon existing types of chairs and stools by allowing a person to lean back without falling over.
+
+This is accomplished by using a flip out leg as shown here:
+
+**![](data:image/png;base64...)**
+
+**The assembly A is on a hinge.**
+
+As a person leans backs as is shown in the figure below.
+
+![](data:image/png;base64...)
+
+**When leaning back causes new assembly to unfold, preventing falls**
+
+*\*note how the drawings aren’t perfect or professional. They just have to be clear enough so a patent examiner can understand what you are trying to claim. When the provisional is converted to a full application properly drafted formal drawings will be required. In full filing, the diagrams will have Figure numbers (e.g. Fig 1. Fig 2., etc). Also, each item in the figure needs to properly labeled.*
+
+## Example Embodiments
+
+*\*Add specific examples of invention. If possible, include a “preferred embodiment”.*
+
+While there are several ways to implement the flip out section, the preferred implementation uses an irony hinge, a metal rectangular square assembly, and a weighted rubber foot.
+
+*\*this section isn’t strictly necessary, but it can be helpful if one particular way of implementing your invention is the best, or perhaps the way you intend to go to production with. The claims in the last section are the real heart of how much protection and coverage the patent will confer if granted. However a good example embodiment can remove ambiguity if someone else just rips off a copy.*
+
+## Objects and Advantages
+
+*\*(Why better than what’s been done before)*
+
+A new type of chair is created which allows a user to lean backwards but the weighted hinge assembly then sticks out preventing the user from falling backwards. In traditional chairs if a user leans back on two legs and falls there is nothing preventing injury. The present invention solves this problem.
+
+## Draft Claims
+
+*\*All provisional patents must include 1 draft claim. Technically this is where the novel aspects of the invention must be declared.*
+
+1. The present invention is a chair consisting of a seating surface and a flip out mechanism comprising a weighted supplemental assembly with a large foot attached to the back of the seating surface. Said weighted assembly extends when a user leans backwards via gravity.
+2. *<.. Add more claims if possible but only 1 is required in a provisional. See the guide for more details>*

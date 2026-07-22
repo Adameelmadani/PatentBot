@@ -1,0 +1,125 @@
+<!-- Slide number: 1 -->
+# WIPO Digital Access Service
+IP Office Business Solutions
+
+<!-- Slide number: 2 -->
+# What is DAS?
+A service offering a simple and safe digital alternative to filing paper copies of priority documents with multiple patent Offices.
+
+Enables an applicant claiming priority to ask IP Offices of second filing to retrieve a copy of the priority document themselves via the service
+
+<!-- Slide number: 3 -->
+3
+# DAS – Core Features
+Certification – ensure that the correct and unaltered copy of the document is received.
+Authorization – applicant must ”furnish” the document to the OSF.
+Confidentiality – documents are usually unpublished at the time they must be furnished.
+Document Identification – ensure that the correct documents are exchanged.
+
+The DAS service implements these requirements via:
+Self-certification of digital libraries by OFF.
+Document exchange via SOAP web services over private VPN connections or secure FTP file transfers.
+DAS “access code” to authorize access by the OSF.
+Standard document formats (e.g. PDF) and metadata.
+
+<!-- Slide number: 4 -->
+# How DAS works
+A service offering a simple and safe digital alternative to filing paper copies of priority documents with multiple Offices.
+Traditional Paper Exchange
+
+![copy-icon](Picture26.jpg)
+(1)
+Office of first filing
+
+![Hospital-icon](Picture15.jpg)
+
+![boss-icon](Picture11.jpg)
+(2)
+(3)
+
+![](Picture75.jpg)
+
+![](Picture80.jpg)
+
+![](Picture85.jpg)
+
+![city-icon](Picture20.jpg)
+
+![city-icon](Picture19.jpg)
+
+![city-icon](Picture43.jpg)
+
+![city-icon](Picture42.jpg)
+
+![city-icon](Picture21.jpg)
+
+![city-icon](Picture44.jpg)
+Offices of second filing
+File an IP application
+Request multiplecertified copies
+(3) 	File a subsequent   application to each Office of second filing and furnish a certified copy separately
+DAS Digital Exchange
+
+![copy-icon](Picture26.jpg)
+(1)
+
+![Hospital-icon](Picture15.jpg)
+Office of first filing
+
+![boss-icon](Picture11.jpg)
+(2)
+(1.a)
+
+(1.b)
+
+![](Picture70.jpg)
+
+![WIPO logo](Picture8.jpg)
+DAS
+
+![city-icon](Picture20.jpg)
+(2.a)
+
+![city-icon](Picture19.jpg)
+
+![city-icon](Picture43.jpg)
+
+![city-icon](Picture42.jpg)
+
+![city-icon](Picture21.jpg)
+
+![city-icon](Picture44.jpg)
+Offices of second filing
+
+(1) File an IP application and     request to use it in DAS     (a) Register the certified copy     (b) Issue the access code
+(2) File a subsequent application     to each IP Office with the      priority document details and the     access code     (a) Retrieve the certified copy from          DAS with the access code
+
+### Notes:
+
+<!-- Slide number: 5 -->
+# Changes for Applicants
+When requesting a certified copy of application to the office of first filing, applicant will receive a DAS access code instead of the certified copy on paper
+Applicant should provide the DAS access code along with the priority claim details without the need to furnishing a certified copy on paper in subsequent filing with an office of second filing
+A secure portal is made available as an optional tool for applicants to track exchange of priority documents by offices only. The actual priority document contents cannot be downloaded with this tool
+
+<!-- Slide number: 6 -->
+# Office Implementation
+As Office of First Filing (OFF)
+Administrative change in the national filing procedures to record the request to use DAS (access code generation is optional)
+IT change to implement the DAS registration via Trilateral Document Access for IP5 / ID5 Offices only, via PCT Electronic Data Interchange Service (PCT-EDI) or manual process by using a secure Office Portal for other Offices
+As Office of Second Filing (OSF)
+Administrative change in the national filing procedures to allow the applicant to supply the access code for DAS retrieval
+IT change to Implement the DAS retrieval registration via Trilateral Document Access for IP5 / ID5 Offices only, via PCT-EDI or manual process by using a secure Office Portal for other Offices
+Voluntary participation as OFF only, as OSF onlyor in both capacities
+Office’s decision to offer the service free of charge or not
+
+<!-- Slide number: 7 -->
+7
+# Contact
+DAS Support: das.support@wipo.int
+Daniel Cheng
+Head of development
+email: daniel.cheng@wipo.int
+Gabriel Berlicki
+Support coordinator
+Email: gabriel.berlicki@wipo.int

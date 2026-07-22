@@ -1,0 +1,143 @@
+# WIPO Digital Access Service  
+
+IP Office Business Solutions
+
+# What is DAS?
+
+- A service offering a simple and safe digital alternative to filing paper copies of priority documents with multiple patent Offices. 
+- 
+- Enables an applicant claiming priority to ask IP Offices of second filing to retrieve a copy of the priority document themselves via the service
+
+# DAS – Core Features
+
+1. Certification – ensure that the correct and unaltered copy of the document is received.
+2. Authorization – applicant must ”furnish” the document to the OSF.
+3. Confidentiality – documents are usually unpublished at the time they must be furnished.
+4. Document Identification – ensure that the correct documents are exchanged.
+
+The DAS service implements these requirements via:
+
+- Self-certification of digital libraries by OFF.
+- Document exchange via SOAP web services over private VPN connections or secure FTP file transfers.
+- DAS “access code” to authorize access by the OSF.
+- Standard document formats (e.g. PDF) and metadata.
+
+3
+
+# How DAS works
+
+- A service offering a simple and safe digital alternative to filing paper copies of priority documents with multiple Offices. 
+
+1. File an IP application
+2. Request multiple certified copies
+
+(3) 	File a subsequent    application to each Office of second filing and furnish a certified copy separately
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Traditional Paper Exchange
+
+<!-- image -->
+
+<!-- image -->
+
+Office of first filing
+
+Offices of second filing
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+(1) 
+
+(2)
+
+(3) 
+
+(1) File an IP application and      request to use it in DAS      (a) Register the certified copy      (b) Issue the access code
+
+(2) File a subsequent application      to each IP Office with the       priority document details and the      access code      (a) Retrieve the certified copy from           DAS with the access code
+
+<!-- image -->
+
+DAS Digital Exchange
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Offices of second filing
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+(1) 
+
+(2) 
+
+Office of first filing
+
+(1.a) 
+
+DAS
+
+(2.a) 
+
+(1.b) 
+
+# Changes for Applicants
+
+- When requesting a certified copy of application to the office of first filing, applicant will receive a DAS access code instead of the certified copy on paper
+- Applicant should provide the DAS access code along with the priority claim details without the need to furnishing a certified copy on paper in subsequent filing with an office of second filing
+- A secure portal is made available as an optional tool for applicants to track exchange of priority documents by offices only. The actual priority document contents cannot be downloaded with this tool
+
+# Office Implementation 
+
+- As Office of First Filing (OFF)
+- Administrative change in the national filing procedures to record the request to use DAS (access code generation is optional)
+- IT change to implement the DAS registration via Trilateral Document Access for IP5 / ID5 Offices only, via PCT Electronic Data Interchange Service (PCT-EDI) or manual process by using a secure Office Portal for other Offices
+- As Office of Second Filing (OSF)
+- Administrative change in the national filing procedures to allow the applicant to supply the access code for DAS retrieval
+- IT change to Implement the DAS retrieval registration via Trilateral Document Access for IP5 / ID5 Offices only, via PCT-EDI or manual process by using a secure Office Portal for other Offices
+- Voluntary participation as OFF only, as OSF only or in both capacities
+- Office’s decision to offer the service free of charge or not
+
+# Contact
+
+- DAS Support: das.support@wipo.int
+- Daniel Cheng
+- Head of development
+- email: daniel.cheng@wipo.int 
+- Gabriel Berlicki
+- Support coordinator
+- Email: gabriel.berlicki@wipo.int 
+
+7

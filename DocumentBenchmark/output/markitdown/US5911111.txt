@@ -1,0 +1,499 @@
+USOO.5911111A
+| United States Patent  |     | (19)  | 11  Patent Number:     |     | 5,911,111     |
+| --------------------- | --- | ----- | ---------------------- | --- | ------------- |
+| Bohr et al.           |     |       | (45)  Date of Patent:  |     | Jun. 8, 1999  |
+54  POLYSILICON POLISH FOR PATTERNING  5,489,543  2/1996  Hong ......................................... 437/40
+| IMPROVEMENT  |     |     | 5,502,008  3/1996 Hayakawa et al                                           |     | 437/225  |
+| ------------ | --- | --- | -------------------------------------------------------------------------- | --- | -------- |
+|              |     |     | 5,563,096  10/1996 Nasr .......................................... 437/40  |     |          |
+75  Inventors: Mark T. Bohr, Aloha; Lawrence N.  FOREIGN PATENT DOCUMENTS
+Brigham, Beaverton; Peter K. Moon,
+Portland; Seiichi Morimoto, Beaverton,  0545263  6/1993  European Pat. Off..
+|     | all of Oreg.  |     |     | OTHER PUBLICATIONS  |     |
+| --- | ------------- | --- | --- | ------------------- | --- |
+73  Assignee:  Intel Corporation, Santa Clara, Calif.  Wolf, Stanley, “Silicon Processing for the VLSI Era”, vol. 2,
+pp. 333-334.
+21  Appl. No.: 08/944,041  Sivaram, S., Underlayer Dependence of Thin Film Stresses
+| 1-1.  |     |     | in Blanket CVD Tungsten, Tungsten & Other Refractory  |     |     |
+| ----- | --- | --- | ----------------------------------------------------- | --- | --- |
+22  Filed:  Sep. 2, 1997  Metals for VLSI Applications III, 1987, pp. 407-414.
+O  O  Kaufman, F.B. et al., Chemical-Mechanical Polishing for
+Related U.S. Application Data  Fabricating Patterned W Metal Features as Chip Intercon
+63  Continuation of application No. 08/394,368, Feb. 24, 1995,  nects, J. Electrochem Soc., vol. 138, No. 11, Nov. 1991, pp.
+| abandoned.  |     |     | 3460-3465.  |     |     |
+| ----------- | --- | --- | ----------- | --- | --- |
+6  Landis, H., et al., Integration of Chemical-Mechanical Pol
+51)  Int. Cl.  .....................................................  H01L 21/44  ishing into CMOS integrated Circuit Manufacturing, Thin
+52  U.S. Cl. .......................... 438/585; 438/592; 438/692;  Solid Films, 220, (1992), pp. 1-7.
+438/693
+58  Field of Search ..................................... 438/585,592,  Primary Examiner-Charles Bowers
+|      |                        | 438/692, 693  | Assistant Examiner        | Matthew Whipple              |     |
+| ---- | ---------------------- | ------------- | ------------------------- | ---------------------------- | --- |
+|      |                        |               | Attorney, Agent, or Firm  | Blakely, Sokoloff, Taylor &  |     |
+| 56)  | References Cited       |               | Zafman LLP                |                              |     |
+|      | U.S. PATENT DOCUMENTS  |               | 57                        | ABSTRACT                     |     |
+3,664,874  5/1972 Epstein.  A polishing process for polysilicon gate patterning improve
+4,702.792  10/1987 Chow et al.  ment using Standard patterning techniques in the manufac
+4,758.306  7/1988 Cronin et al..  ture of high performance metal oxide semiconductor (MOS)
+4,879,258  11/1989 Fisher.  devices. The addition of a short silicon polish step, after
+t  SE By  deposition and before patterning of a polysilicon layer
+4. 992. 135  2/1991  Doan.  reduces the non-planarity normally associated with polysili
+5,030,584  7/1991 Nakata ...................................... 437.44  con. Polysilicon polishing removes the surface roughness in
+5,036,015  7/1991 Sandhu et al..  the polysilicon layer caused by the grain Structure of poly
+5,209,816  5/1993 Yu et al..  Silicon and the Surface roughness due to the replication of
+5,232,875  8/1993 Tuttle et al..  the underlying topography of the isolation and Substrate
+5.244,534  9/1993 Yu et al..  regions. The described method for removal of both types of
+5,271,798  12/1993 Sandhu et al..  Surface roughness leaves the polysilicon layer planarized
+5,346,587  9/1994 Doan et al. .............................  156/657  without increasing the defect level already associated with
+5,391,511  2/1995  Doan et al. ............................... 437/49  the manufacture of high performance MOS devices
+5,422,289  6/1995  Pierce ........................................ 437/32  gn p
+| 5,476,606  | 12/1995 Brancaleoni et al.  | ...  252/79.1  |     |     |     |
+| ---------- | --------------------------- | -------------- | --- | --- | --- |
+5,487.931  1/1996 Annacone et al. ..................... 428/64.1  12 Claims, 5 Drawing Sheets
+(Fr-- 220
+230
+|     | Elisher  |     | O   | 220  |     |
+| --- | -------- | --- | --- | ---- | --- |
+5  Slurry
+Out
+sc  is l?00
+226832  r3.2y61
+
+U.S. Patent Jun. 8, 1999 Sheet 1 of 5 5,911,111
+130 E On 120
+111 110
+Fig. 1a
+(Prior Art)
+Fig. 1b
+(Prior Art)
+Fig. 1c
+(Prior Art)
+
+U.S. Patent Jun. 8, 1999 Sheet 2 of 5 5,911,111
+Fig. 1d
+(Prior Art)
+Fig. 1e
+(Prior Art)
+
+| U.S. Patent  | Jun. 8, 1999  | Sheet 3 of 5  | 5,911,111  |
+| ------------ | ------------- | ------------- | ---------- |
+Fig. 2a
+220
+|     |     | 21  | 210  |
+| --- | --- | --- | ---- |
+200
+Fig.2b
+230  s"  -
+| (,  | A  -- 220  |     |     |
+| --- | ---------- | --- | --- |
+Fig. 2c
+
+U.S. Patent Jun. 8, 1999 Sheet 4 of 5 5,911,111
+V
+Polisher
+260
+262 3}261
+) -264
+Fig.2f
+
+U.S. Patent Jun. 8, 1999 Sheet 5 of 5 5,911,111
+-240
+230
+Fig. 2g 230-N 220
+200
+
+5,911,111
+1 2
+POLY SILICON POLISH FOR PATTERNING After photoresist layer 140 has been subjected to a
+IMPROVEMENT developing Solution only the insoluble portions of photore
+sist layer 140 remain, as shown in FIG. 1c. The insoluble
+This is a continuation of application Ser. No. 08/394,368, portions of photoresist layer are the portions of photoresist
+filed Feb. 24, 1995, now abandoned. layer 140 not exposed to light. Due to the reflection and
+scattering of the light by polysilicon layer 130, photoresist
+BACKGROUND OF THE INVENTION
+layer 140 is poorly patterned. The features of photoresist
+1. Field of the Invention
+layer 140 have poor edge definition and have varying
+This invention relates to the field of semiconductor
+horizontal dimensions.
+devices, and more specifically, to a process designed to
+improve Surface planarity of polysilicon gate layers. 1O The patterned photoresist is then used to pattern the
+polysilicon layer 130 into a gate electrode. Polysilicon gate
+2. Background Information
+layer 130 is patterned using well known etch techniques,
+In order to fabricate high performance metal oxide Semi
+Such as, reactive ion etch (RIE), to form a polysilicon gate
+conductor (MOS) transistors, it is crucial to control gate
+electrode as shown in FIG. 1d. Because the patterned
+electrode line widths. Improved control of the gate electrode
+15 photoresist layer 140 (in FIG. 1c) has wavy edges and
+linewidth allows the formation of Smaller channel lengths
+varying horizontal dimensions, the gate electrode 130 in
+and increases the performance of MOS transistors. Non
+FIG. 1d is formed with poor edge definition and varying
+planar polysilicon layer Surfaces degrade the ability to
+linewidth. Therefore, the poorly patterned photoresist layer
+control line widths during lithographic processing for gate
+can cause the gate electrode to be formed with varying
+patterning. This degradation of control is generally due to
+gate-lengths. FIG. 1e illustrates a top view of the gate
+variations in photoresist thickness and irregular light reflec
+tions off the polysilicon Surface. electrode 130 in FIG. 1d.
+Polycrystalline Silicon (polysilicon) is a preferred gate The variation in gate-length of the gate electrode can
+cause variations in channel length. Variation of the channel
+electrode material for MOS devices because it is easy to
+deposit and easy to dope. Polysilicon, however, also has length varies the electrical characteristics of an MOS device
+disadvantages that interfere with lithographic patterning and 25 and must be carefully controlled.
+decrease line width control. One disadvantage is that Presently there are two techniques for improving gate
+polysilicon, due to its grain Structure, forms a relatively electrode linewidth control in the manufacture of high
+rough Surface layer. Another disadvantage is that the remain performance MOS transistors. The first technique is known
+ing topography from the underlying isolation Structures is as amorphous Silicon deposition. Amorphous Silicon depo
+replicated in the polysilicon Surface. Both of these disad Sition eliminates the Surface roughneSS caused by the grain
+Vantages interfere with lithographic patterning and degrade Structure of polysilicon but does not eliminate the replication
+linewidth control. of underlying isolation topography in the polysilicon Sur
+FIG. 1a illustrates a cross sectional view of polysilicon face. Additionally, amorphous Silicon deposition has prob
+layer 130 deposited above thin gate oxide layer 120, isola lems with deposition defects and is also more difficult to
+35 fully dope.
+tion regions 110 & 111, and substrate 100. The rough surface
+of polysilicon layer 130 caused by the grain structure of The Second technique for improving line width control is
+polysilicon is also illustrated in FIG. 1a. Additionally, the the use of anti-reflective layerS as part of the lithographic
+underlying topography of isolation regions 110 & 111 and process. The use of anti-reflective layerS reduces the effects
+substrate 100 are replicated in the surface of polysilicon of both the Surface roughness caused by the grain Structure
+40
+layer 130. The rough Surface and the underlying topography of polysilicon and the resist thickness variation due to the
+in polysilicon layer 130 cause reflection and Scattering underlying topography. An anti-reflective layer is highly
+effects during photolithographic patterning of a photoresist. absorbing and reduces the reflection and Scattering effects
+FIG. 1b illustrates a cross sectional view of mask 150 and caused by the rough Surface and the topographical features
+photoresist layer 140 coated on the polysilicon layer 130 of of the polysilicon layer. The addition of an anti-reflective
+45
+FIG. 1a. It is a well known process in the art to pattern layer also helps to planarize the isolation topography and
+polysilicon gate layerS using a patterned photoresist. In reduce the variation of the photoresist thickness. Anti
+order to pattern photoresist layer 140, mask 150 is used to reflective layers, however, require Special processing equip
+block the light. As shown in FIG. 1b mask 150 only covers ment and add additional Steps, i.e. depositing and etching the
+a portion of photoresist layer 140. The uncovered regions of anti-reflective layer. The need for Special processing equip
+50
+photoresist layer 140 are exposed to light. Exposure to light ment Significantly increases the cost of manufacturing the
+causes the uncovered portions of photoresist layer 140 to MOS transistors. Also, the additional steps required by the
+become soluble. FIG. 1b illustrates mask 150 and photore use of anti-reflective layers increases the defect level nor
+sist layer 140 being eXposed to light. Because the light rays mally associated with the production of MOS transistors.
+are being reflected and Scattered by the rough Surface and 55 Thus, what is needed is a method that removes both
+underlying topography of polysilicon layer 130, regions of Sources of non-planarity associated with polysilicon and that
+photoresist layer underlying the mask are exposed to light improves linewidth control using Standard lithographic tech
+and become soluble. niques without increasing the defect level already associated
+The Step height difference caused by underlying topog with the manufacture of high performance MOS transistors.
+raphy results in variations in the photoresist thickness as it 60
+covers the topography. This variation in photoresist thick SUMMARY OF THE INVENTION
+neSS also contributes to increased variation in the line width The present invention describes a method for improved
+control of the patterned photoresist layer due to thin film line width control in the patterning of polysilicon layers,
+interference effects. In other words, when a thin photoresist which are used to form gate electrodes, in the manufacture
+film is exposed to light, internal reflection and interference 65 of metal oxide semiconductor (MOS) devices. The preferred
+can affect the light intensity thus degrading line width con embodiment of the present invention employs a short poly
+trol. Silicon polish Step after deposition and before patterning of
+
+5,911,111
+3 4
+a polysilicon layer. This polysilicon polish Step removes the FIG.2g illustrates a cross sectional view of the photoresist
+two Sources of non-planarity normally associated with poly layer of FIG.2f after patterning.
+Silicon. In other words, the present invention removes Sur FIG.2h illustrates a cross sectional view of the photoresist
+face roughness in the polysilicon layer caused by the grain layer of FIG. 2g after patterning into a gate electrode.
+Structure of polysilicon and the Surface roughneSS due to the 5 FIG.2i illustrates a top view of gate electrode 230 in FIG.
+replication of the underlying topography of the isolation and
+2h.
+Substrate regions.
+A currently preferred embodiment of the present inven DETAILED DESCRIPTION
+tion utilizes a polisher to polish the polysilicon layer. A A polysilicon polish for patterning improvement is dis
+colloidal silica with potassium hydroxide (SiO/KOH) closed. In the following description, numerous specific
+Slurry is dispensed onto the pad of the polisher. The polish details are Set forth Such as Specific materials, equipment,
+ing pressure is kept at approximately 0.5-3.0 psi to maintain process parameters, thicknesses, etc. in order to provide a
+a low polish rate. The polishing pad rotation is maintained thorough understanding of the present invention. It will be
+at approximately 10-100 rpm and the carrier rotation is obvious, however, to one skilled in the art that these specific
+maintained at approximately 10-100 rpm. The polishing pad 15 details need not be employed to practice the present inven
+and slurry are chilled with water to maintain a temperature tion. In other instances, well known materials or methods
+of approximately 20 C. during the process. The polishing
+have not been described in detail in order to avoid unnec
+process of this currently preferred embodiment is continued essarily obscuring the present invention.
+until approximately 1000 A of the 3000–5000 A polysilicon
+The present invention describes a process for improving
+layer is removed.
+line width control in the manufacture of high performance
+A goal of the present invention is to eliminate Surface metal oxide semiconductor (MOS) transistors. In the manu
+roughness caused by the grain Structure of polysilicon in the facture of high performance MOS transistors and more
+manufacture of high performance MOS transistors. Specifically after the deposition of a Silicon layer used to
+Another goal of the present invention is to remove the form a gate electrode, the present invention is employed to
+replication of the underlying topography in a polysilicon 25 remove all Sources of non-planarity in the Surface of the
+surface in the manufacture of high performance MOS tran Silicon layer. The removal of all Sources of non-planarity in
+Sistors. the Surface of the Silicon layer used to form the gate
+Still another goal of the present invention is to improve electrode improves linewidth control during the lithographic
+gate patterning of the polysilicon layer in the manufacture of patterning of a photoresist. Improved linewidth control in
+high performance MOS transistors. patterning the photoresist helps to control the formation and
+A further goal of the present invention is to pattern a patterning of gate electrodes and other Subsequent process
+polysilicon layer using standard lithographic techniques ing layers. Improved control over the patterning of gate
+without increasing the defect level normally associated with electrodes allows the formation of Smaller channel lengths
+the manufacture of high performance MOS transistors. and increases the performance of MOS transistors.
+35
+Additional features and benefits of the present invention It is to be noted that the term “substrate” is used through
+will become apparent from the detailed description, figures, out the present disclosure. Substrate is used to refer to a
+and claims set forth below. Silicon Semiconductor Substrate or a part thereof, Such as,
+gallium arsenide. The term Substrate includes, but is not
+BRIEF DESCRIPTION OF THE DRAWINGS limited to: fully processed, Semi-processed, or unprocessed
+40
+The present invention is illustrated by way of example Substrates with Semiconductor materials thereon.
+and not limitation in the accompanying figures and in which: The general processing StepS used in the manufacture of
+FIG. 1a illustrates a croSS Sectional view of a polysilicon a MOS transistor are well known in the art and will be
+layer deposited above a gate oxide layer, isolation regions, obvious to one with Skill in the art, therefore, these Steps are
+and Substrate. 45 not described in detail. FIG.2a illustrates field oxide regions
+(isolation structures) 210 and 211 formed in substrate 200.
+FIG. 1b illustrates a cross sectional view of a mask and a
+photoresist layer coated on the polysilicon layer of FIG. 1 a In a currently preferred embodiment the field oxide regions
+during eXposure to light. 210 and 211 are formed by shallow trench isolation,
+however, it should be noted that they may also be formed by
+FIG. 1c illustrates a cross sectional view of the photoresist
+layer of FIG. 1b after patterning. 50 other methods, Such as, LOCOS isolation.
+FIG.2b illustrates a thin gate oxide layer 220 formed on
+FIG. 1d illustrates a cross sectional view of the photoresist
+substrate 200. It should be noted that the thin gate oxide
+layer of FIG. 1c after patterning into a gate electrode.
+layer referred to in the description of the present invention
+FIG. 1e illustrates a top view of the gate electrode 130 in
+is also known in the art as a gate dielectric layer. In a
+FIG. 1d.
+currently preferred embodiment the thin gate oxide com
+55
+FIG. 2a illustrates a cross sectional view of isolation prises SiO.
+regions formed in a Substrate.
+After the thin gate oxide is formed a Silicon layer is
+FIG. 2b illustrates a croSS Sectional view of a gate oxide
+deposited. The Silicon layer may consist of polycrystalline
+layer formed above the substrate of FIG. 2a. Silicon (polysilicon) or an amorphous Silicon. A preferred
+FIG.2c illustrates a croSS Sectional view of a polysilicon 60 embodiment of the present invention utilizes a polysilicon
+layer deposited above the oxide layer of FIG. 2. layer. Although the following description describes the
+FIG. 2d illustrates a cross sectional view of a polisher. present invention with respect to the formation of Silicon and
+FIG.2e illustrates a cross sectional view of the polysilicon polysilicon gates, it should be noted that the present inven
+layer of FIG.2c after polishing. tion can also be utilized with other gate materials that have
+FIG.2f illustrates a croSS Sectional view of a mask and a 65 a granular Surface morphology, Such as tungsten. It should
+photoresist layer coated on the polysilicon layer of FIG.2e also be noted that the present invention can be utilized to
+during eXposure to light. form composite gates. Such composite gates may include,
+
+5,911,111
+S 6
+but are not limited to, polysilicon with a refractory metal polishing pad 261 are rotated. It should be noted that, Since
+film (for example, tungsten) or polysilicon with a silicide carrier 265 is holding substrate 200, Substrate 200 is also
+film (for example, tungsten Silicide). In other words, a being rotated The slurry breaks down the surface bonding of
+composite layer structure (e.g., the polysilicon film with the polysilicon layer 230 and the abrasion between polishing
+refractory metal film or polysilicon with the silicide film) is pad 261 and substrate 200 remove portions of the surface of
+formed prior to a Step of polishing the polysilicon layer. polysilicon layer 230 by chemical mechanical polishing.
+After the polysilicon polish Step, the composite layer Struc It should be noted that although the following description
+ture is patterned into a composite gate. of the present invention describes the polysilicon polish with
+Additionally, it should be noted that the present invention respect to the Westech Polisher it will be obvious to one with
+can be utilized to form gate electrodes from pure metal ordinary skill in the art that other polishers may be used. It
+layers that have a granular Surface morphology, for example, should also be noted that although a preferred embodiment
+tungsten layers. Tungsten, like polysilicon, due to its grain of the present invention utilizes rotational chemical
+Structure, forms a relatively rough Surface layer which can mechanical polishing it will be obvious to one with ordinary
+interfere with lithographic patterning of the gate electrode. skill in the art that other non-rotational chemical mechanical
+Thus, the present invention can be utilized to Substantially 15 polishing techniques, Such as orbital polishing, may be used.
+eliminate the Surface roughneSS and replication of underly During the polishing process a slurry is dispensed directly
+ing topography in the formation of composite layers. Where onto the polishing pad 261 of the polisher 260. One pre
+an additional layer, for example, a tungsten film or tungsten ferred embodiment of the present invention utilizes a Silica
+Silicide film, is deposited on top of the Silicon or polysilicon with potassium hydroxide (SiO/KOH) slurry. It will be
+layer to form a composite layer, a polishing Step may be
+obvious to one with skill in the art that other similar slurries
+performed after the deposition of the additional layer may be used, for example, a slurry incorporating ammonium
+thereby removing the Surface roughness and replication of hydroxide rather than potassium hydroxide may be used.
+underlying topography of the composite layer.
+The preferred embodiment of the present invention uses a
+FIG.2c illustrates a polysilicon layer 230 deposited above SiO/KOH slurry which has a pH level in the range of
+thin gate oxide layer 220. The rough Surface of polysilicon 25 approximately 9.5 to 12.0. It should also be noted that the
+layer 230 caused by the grain structure of polysilicon is SiO/KOH slurry must contain enough KOH to loosen the
+illustrated in FIG.2c. Additionally, the underlying topogra Surface bonding of the polysilicon layer thereby enabling
+phy of field oxide regions 210 & 211 and substrate 200 are chemical mechanical polishing. In a currently preferred
+replicated in the Surface of polysilicon layer 230. The rough embodiment the Slurry concentration comprises approxi
+Surface and the replication of the underlying topography in mately 1-20% SiO by weight.
+polysilicon layer 230 cause reflection and Scattering effects Carrier 265, which holds substrate 200, presses polishing
+which degrade line width control during Subsequent photo pad 261 So that polysilicon layer 230 contacts polishing pad
+lithographic patterning of a photoresist layer. In other words, 261. Polishing pad 261, used in a preferred embodiment of
+the photoresist is poorly patterned. the present invention, is a dual layer polishing pad. Top pad
+The photoresist is used to pattern the polysilicon layer 35 262 is a hard pad comprising, for example, polyurethane and
+into a gate electrode. A poorly patterned photoresist causes bottom pad 263 is a Soft pad comprising, for example,
+the formation of non-uniform gate electrodes. Non-uniform polyurethane. The hard pad provides better planarization of
+gate electrode line width, in turn, causes non-uniform tran the surface layer while the soft pad provides better control
+Sistor channel lengths and prevents the formation of Small of the uniformity across the substrate. A preferred embodi
+channel lengths, thus causing a decrease in device perfor 40 ment of the present invention utilizes an IC-1000 pad as top
+mance. It is therefore advantageous to employ the present pad 262 and a Suba-4 pad as bottom pad 263. Both pads
+invention before Subjecting the polysilicon layer to a pho comprise polyurethane and are available from Rodel Incor
+toresist and etch (patterning) process. porated in Scottsdale, Ariz.
+According to the present invention a short Silicon polish The Westech Polisher, although primarily designed for
+45
+Step is used after polysilicon deposition and before oxide polishing, may be used for polysilicon polishing with
+patterning, to remove all Sources of non-planarity in the careful control of the polishing parameters. Some of the
+polysilicon Surface. Removing all Sources of non-planarity parameters to be controlled are: the polishing pressure, the
+in the polysilicon layer reduces reflection and Scattering rotation of polishing pad 261, and the rotation of carrier 265.
+effects during photolithography and provides a constant The pressure with which carrier 265 presses substrate 200
+50
+resist thickness acroSS a printed field improving the pattern onto polishing pad 261 is referred to as the polishing
+ing of the photoresist layer. Since the photoresist is used to preSSure. The polishing pressure controls the polish rate. In
+pattern the gate electrode, and improved photoresist permits other words, the higher the polishing pressure the higher the
+uniform formation of the gate electrode. Uniform gate polish rate and the lower the polishing pressure the lower the
+electrode linewidth permits more uniform transistor channel polish rate. For polysilicon polishing a low polish rate is
+55
+length and allows the formation of Smaller channel lengths desired in order to remove a thin layer, because it allows
+which ultimately increase device performance. greater control over the polishing process. The low polish
+After polysilicon layer 230 has been deposited on Sub preSSure of the polishing proceSS is particularly important
+strate 200, Substrate 200 is then placed into carrier 265 of when polishing polysilicon in order to prevent delamination
+polisher 260 as shown in FIG. 2d. A preferred embodiment of the polysilicon layer and to prevent damage to the thin
+60
+of the present invention utilizes a Westech Polisher which is gate oxide layer beneath the polysilicon layer. According to
+available from Ipec-Westech Corporation, Phoenix, Arizona. the present invention, the polishing preSSure is maintained at
+The Westech Polisher 260 comprises carrier 265, polish approximately 0.5 to 3.0 psi.
+ing pad 261, and table 264. Carrier 265 holds substrate 200. The rotation of polishing pad 261 (polishing pad rotation)
+Table 264 holds polishing pad 261. During polishing a slurry 65 and the rotation of carrier 265 (carrier rotation) are also
+is dispensed onto polishing pad 261, carrier 265 presses controlled. For polysilicon polishing, polishing pad 261 is
+substrate 200 onto polishing pad 261, and carrier 265 and rotated at approximately 10 to 100 rpm and substrate 200 is
+
+5,911,111
+7 8
+also rotated at approximately 10 to 100 rpm. In a currently After photoresist layer 240 has been subjected to a
+preferred embodiment polishing pad 261 and carrier 265 are developing Solution only the insoluble portions of photore
+rotated in the same direction, however, it will be obvious to sist layer 240 remain, as illustrated in FIG.2g. The insoluble
+one with ordinary skill in the art that polishing pad 261 and portions of photoresist layer are the portions of photoresist
+carrier 265 can be rotated in the same or opposite direction layer 240 not exposed to light. Since the light was not
+of one another. reflected or scattered by polysilicon layer 230 and since the
+In a currently preferred embodiment of the present inven photoresist has a uniform thickness, photoresist layer 240 is
+tion the temperature of the process is maintained at approxi properly patterned and has good definition. The patterned
+mately 20° C. A low polishing temperature gives better
+photoresist layer 240 has straight lines and uniform width.
+planarization capability. It should be noted, however, that it
+The patterned photoresist is then used to pattern polysili
+will be obvious to one with ordinary skill in the art that the
+con layer 230 into a gate electrode. Polysilicon gate layer
+present invention can be utilized at any temperature. The
+230 is patterned using well known etch techniques, Such as,
+temperature of the currently preferred embodiment is main
+tained by chilling the slurry and polishing pad with water. reactive ion etch (RIE), to form a polysilicon gate electrode
+as illustrated in FIG.2h. Because patterned photoresist layer
+The time or duration of the polysilicon polish Step is
+directly proportional to the amount of Surface roughness to 15 240 (in FIG.2g) had straight edges and uniform width, the
+be removed. The amount of Surface roughness to be gate electrode 230 in FIG. 2h is formed with straight edges
+removed depends largely upon whether the Surface rough and a uniform gate length. FIG. 2i illustrates a top view of
+neSS is caused by the grain Structure of polysilicon or the gate electrode 230 in FIG. 2.h.
+underlying topography of the isolation and Substrate regions. The present invention permits the formation of gate
+If the concern is only to remove the Surface roughneSS due electrode 230 with straight edges and well-defined lin
+to the grainstructure of polysilicon, then only a few hundred ewidth. The planarized polysilicon layer allows the gate
+angstroms, approximately 100 to 500 A, of the polysilicon length dimension to be precisely maintained during pattern
+layer need be removed. In a currently preferred embodiment ing of the gate electrode. Maintaining the gate length is
+approximately 400 A of the polysilicon layer is removed.
+important because the channel length of an MOS device
+For greater linewidth control, Surface roughness due to the 25 depends upon the gate length, thus, the Smaller the gate
+underlying topography must also be removed. In this case,
+length the Smaller the channel length. The length of the gate
+the amount of the polysilicon layer to be removed varies
+and the channel length have a great impact on the electrical
+with the underlying topography and may range from
+approximately 500 to 2000 A. In one currently preferred characteristics of an MOS device. The above described
+polysilicon polish planarizes the polysilicon layer without
+embodiment approximately 1000 A of polysilicon is
+the use of expensive anti-reflective coatings (ARCs). Pla
+removed. It will be obvious to one with ordinary skill in the
+narization of the polysilicon layer is advantageous for tighter
+art, that by removing the Surface roughness due to the
+underlying topography the Surface roughness due to the line width control during lithographic patterning of a photo
+grainstructure of polysilicon is also removed. It should also resist and for gate patterning improvement. The present
+be noted that the amount of polysilicon to be removed invention may also be useful in the formation of composite
+depends upon the thickness of the layer deposited. It will be 35 gate electrodes, for example, composite gates comprising
+obvious to one with ordinary skill in the art that when Silicon, Silicide, and refractory metal layers. Additionally,
+removing a portion of polysilicon layer 230, enough of the present invention may be useful in the formation of
+polysilicon layer 230 must remain such that it will still act Silicon interconnect lines to allow greater control over the
+as a gate electrode and its resistivity will not be too high. dimensions of the interconnect line Structure.
+Generally, the polysilicon layer is several thousand ang 40 Thus, a polysilicon polish for patterning improvement has
+stroms thick, approximately 3000 to 5000 A, and removing
+been described. Although specific embodiments, including
+100 to 2000 A of that layer for planarization (i.e. removing
+Specific equipment, parameters, methods, and materials have
+approximately 16-40% of the polysilicon layer) will not
+been described, various modifications to the disclosed
+have an adverse effect on device manufacture or perfor
+embodiments will be apparent to one of ordinary skill in the
+CC. 45 art upon reading this disclosure. Therefore, it is to be
+FIG. 2e illustrates polysilicon layer 230 after polishing
+understood that such embodiments are merely illustrative of
+with the present invention. The Surface roughness caused by
+and not restrictive on the broad invention and that this
+the grain Structure of polysilicon and the Surface roughneSS
+invention is not limited to the Specific embodiments shown
+due to the underlying topography of the isolation and
+and described.
+Substrate regions have been removed leaving the polysilicon
+layer planarized. 50 What is claimed is:
+1. A process of fabricating an integrated circuit compris
+Polysilicon layer 230 is then patterned into a gate elec
+ing the Steps of:
+trode using a patterned photoresist. First, a photoresist layer
+depositing a layer comprising polysilicon above a Sub
+240 is coated on polysilicon layer 230 as illustrated in FIG.
+Strate having an isolation region therein;
+2f. In order to pattern photoresist layer 240, mask 250 is 55
+used. As shown in FIG.2f mask 250 only covers a portion forming a tungsten film on Said layer, wherein Said
+of photoresist layer 240. The uncovered regions of photo tungsten film is deposited onto Said layer prior to a Step
+resist layer 240 are exposed to light. Exposure to light causes of polishing Said layer;
+the uncovered portions of photoresist layer 240 to become polishing the Surface of Said layer Such that Surface
+soluble. FIG. 2f illustrates the exposure of mask 250 and 60 roughness and replication of underlying topography are
+photoresist layer 240 to light. Since the polysilicon surface Substantially eliminated and Such that the polished
+is planar the light rays are not being reflected and Scattered, Surface of Said layer extends over Substantial portions
+thus only the exposed regions of photoresist layer 240 of Said isolation region; and
+become Soluble. The planar polysilicon Surface also ensures patterning Said layer.
+a uniform photoresist thickneSS and no variation in light 65 2. The process as described in claim 1 wherein Said layer
+intensity in the photoresist due to internal reflection and further comprises a tungsten Silicide film, wherein Said
+interference. tungsten Silicide film is formed on Said layer comprising
+
+5,911,111
+9 10
+polysilicon prior to Said Step of polishing Said layer com Surface of Said layer extends over Substantial portions
+prising polysilicon. of Said isolation region;
+3. The proceSS as described in claim 1 wherein Said Step patterning Said layer into a gate electrode,
+of polishing Said layer uses a slurry comprising SiO/KOH.
+forming a Source region and a drain region on opposite
+4. The process as described in claim 1 wherein Said layer
+Sides of Said gate electrode.
+is deposited to a thickness of approximately 3000-5000 A.
+8. The process as described in claim 7 wherein said layer
+5. The process as described in claim 1 wherein approxi
+is deposited to a thickness of approximately 3000–5000A.
+mately 100–2000 A of said layer is removed during Said
+polishing Step. 9. The process as described in claim 7 wherein said layer
+6. The process as described in claim 1 wherein Said Step further comprises a tungsten Silicide film, wherein Said
+of patterning Said layer patterns Said layer into a gate tungsten Silicide film is formed on Said layer comprising
+electrode. polysilicon prior to Said Step of polishing Said layer com
+7. A process for improving Surface planarity and line width prising polysilicon.
+control in the manufacture of a gate electrode in a high 10. The process as described in claim 7 wherein said step
+performance MOS transistor comprising the Steps of 15 of polishing said layer uses a slurry comprising SiO2/KOH.
+forming an isolation region on a Substrate, wherein Said 11. The proceSS as described in claim 7; wherein approxi
+isolation region is formed using a technique Selected mately 100–2000 A of said layer is removed during Said
+from the group consisting of: LOCOS and shallow polishing Step.
+trench isolation; 12. The process as described in claim 7 wherein said step
+forming a gate dielectric above Said Substrate and isola of polishing Said layer comprises:
+tion region; pressing Said SubStrate onto a polishing pad So that Said
+depositing a layer comprising polysilicon above Said gate layer is in contact with Said polishing pad, wherein Said
+dielectric; Substrate is pressed onto Said polishing pad at a pres
+forming a tungsten film on Said layer, wherein Said Sure of approximately 0.5-3.0 psi;
+25
+tungsten film is deposited onto Said layer prior to a Step dispensing a slurry onto Said polishing pad;
+of polishing Said layer; rotating Said polishing pad relative to Said Substrate at a
+polishing the Surface of Said layer Such that Surface rate of approximately 10-100 rpm.
+roughness and replication of underlying topography are
+Substantially eliminated and Such that the polished
+k k k k k
+
+UNITED STATES PATENT AND TRADEMARK OFFICE
+CERTIFICATE OF CORRECTION
+| PATENT NO.   | : 5,911,111     | Page 1 of 1  |
+| ------------ | --------------- | ------------ |
+| DATED        | : June 8, 1999  |              |
+| INVENTOR(S)  | : Bohr et al.   |              |
+It is certified that error appears in the above-identified patent and that said Letters Patent is
+hereby corrected as shown below:
+Column 10
+Line 16, delete “:”.
+Signed and Sealed this
+Twenty-ninth Day of June, 2004
+WDJ
+JON W. DUDAS
+Acting Director of the United States Patent and Trademark Office
